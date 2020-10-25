@@ -1,0 +1,2 @@
+The project goal is to recreate the Google Homepage. It does not have to be pixel for pixel, but it should be able to fool the inattentive eye.
+Through this project, I have demonstrated basic html markup and css styling proficiency. 
